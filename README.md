@@ -1,72 +1,69 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=FAIZAL+KHAN;Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Laravel" />
+# FAIJAL KHAN
+
+### Full Stack Developer
+
+Building scalable and production-ready web applications.
+
+[![GitHub](https://img.shields.io/badge/GitHub-faizallk-181717?style=flat-square&logo=github)](https://github.com/faizallk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizal_Khan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/faijalkhann)
+[![Email](https://img.shields.io/badge/Email-Contact-351714?style=flat-square&logo=gmail&logoColor=white)](mailto:khanfaijal000@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I’m a Full Stack Developer focused on building **production-ready, scalable web applications** with clean architecture and modern technologies.
+I'm a Full Stack Developer focused on building reliable, scalable and maintainable web applications.
 
-- 🚀 Real-world experience in building enterprise applications  
-- ⚡ Strong focus on performance, scalability & maintainability  
-- 🔐 Experienced in authentication, security & backend systems  
-- 🧠 Problem-solving mindset with practical implementation approach  
+I enjoy working across the entire stack — from designing responsive interfaces to building APIs, databases and backend systems.
+
+- Production-focused development
+- Scalable application architecture
+- Performance and optimization
+- Authentication and backend systems
+- Clean and maintainable code
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,laravel,mongodb,mysql,tailwind,bootstrap,redux,git,github,postman,vscode" />
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Overview
+## What I Work On
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faizallk&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-
-<img src="https://streak-stats.demolab.com?user=faizallk&theme=tokyonight&hide_border=true" height="150" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizallk&theme=tokyo-night&hide_border=true" />
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:khanfaijal000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF4B2B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/faijalkhann">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/faizallk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## ⚡ Developer Identity
-
-> “I build scalable systems with clean architecture — not just apps that work.”
-
----
+```text
+Frontend        React · Next.js · TypeScript · Tailwind
+Backend         Node.js · Express · Laravel
+Databases       PostgreSQL · MySQL · MongoDB
+Architecture    REST APIs · RBAC · Authentication · Scalable Systems
+Focus           Performance · Security · Maintainability
